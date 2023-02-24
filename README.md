@@ -1,2 +1,1 @@
-# tyronesimulator
-yes
+# 30DaysOfVue
