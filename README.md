@@ -1,1 +1,1 @@
-# 30DaysOfVue
+# 30DaysOfVueJS
