@@ -1,4 +1,4 @@
-# 30DaysOfVueJS
+# IntroToVueJS
 
 Vue.js is a progressive JavaScript framework for building user interfaces. It was developed by Evan You in 2014 and has gained popularity due to its ease of use, simplicity, and flexibility. Vue.js is a reactive framework, which means that it updates the user interface in response to changes in data automatically.
 
